@@ -1,5 +1,5 @@
 /**
- * Alipay.com Inc.
+ * XXX.com Inc.
  * Copyright (c) 2004-2014 All Rights Reserved.
  */
 package com.xiajun.test.DesignPatternTest.DecoratorPattern;
